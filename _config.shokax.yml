@@ -1,4 +1,4 @@
-alternate: testName # 站点大标题
+alternate: My Blog # 站点大标题
 
 statics: "/" # 静态文件根目录
 assets: "assets"
@@ -190,9 +190,9 @@ menu:
 
 # https://twikoo.js.org
 twikoo:
-  enable: false
+  enable: true
   mode: vercel # vercel或tencent
-  envId: "https://example.com" # twikoo环境ID,vercel填地址
+  envId: "https://comments.lol-icon.app" # twikoo环境ID,vercel填地址
   region:
 
 # https://waline.js.org/
@@ -234,7 +234,7 @@ summary:
 # Value before `||` delimiter is the target permalink,
 # secend value is the name of Font icon.
 social:
-  github: https://github.com/yourname || github || "#191717"
+  github: https://github.com/Yuzuk1Shimotsuki || github || "#191717"
   #gitee: https://gitee.com/yourname || gitee || "#e60026"
   #google: https://plus.google.com/yourname || google
   #twitter: https://twitter.com/yourname || twitter || "#00aff0"
@@ -242,7 +242,7 @@ social:
   #music: https://music.163.com/#/user/home?id=yourid || cloud-music || "#e60026"
   #weibo: https://weibo.com/yourname || weibo || "#ea716e"
   #about: https://about.me/yourname || address-card || "#3b5998"
-  #email: mailto:foo@xxx.com || envelope || "#55acd5"
+  email: mailto:yuzuk1shimotsuki-dev@lol-icon.app || envelope || "#55acd5"
   #facebook: https://www.facebook.com/yourname || facebook
   #stackoverflow: https://stackoverflow.com/ || stack-overflow
   #youtube: https://youtube.com/yourname || youtube
@@ -265,7 +265,7 @@ widgets:
 
 footer:
   # Specify the date when the site was set up. If not defined, current year will be used.
-  since: 2022
+  since: 2023
   icon:
     name: sakura rotate
     # Change the color of icon, using Hex Code.
