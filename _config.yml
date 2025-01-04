@@ -153,3 +153,11 @@ feed:
     enable: true
     template: "node_modules/hexo-theme-shokax/layout/_alternate/json.ejs"
     output: "feed.json"
+
+# Admin Panel
+## Replace the username, YOUR_HASH and SOMETHING_SECRET with your own value below
+# hexo-admin authentification 
+admin:
+  username: ching-dev8538@lol-icon.app
+  password_hash: $2b$10$tdCETo9HN38IMK6EjqGdGe3sJxVh.hN7ANVIuhYaEdHXX9nvWdUmm
+  secret: 5rfidt6oe94jyuphwg40fjlka;sdagjflsafsdw4erf;dkgl
