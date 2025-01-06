@@ -181,16 +181,16 @@ menu:
     default: / || user
     aboutsite: /about/  || user
     admiration: /admiration/ || coffee
-  # posts:
+  posts:
   #   default: / || feather
   #   archives: /archives/ || list-alt
-  #   categories: /categories/ || th
-  #   tags: /tags/ || tags
-  # friends: /friends/ || heart
+    categories: /categories/ || th
+    tags: /tags/ || tags
+  friends: /friends/ || heart
 
 # https://twikoo.js.org
 twikoo:
-  enable: false
+  enable: true
   mode: vercel # vercel或tencent
   envId: "https://comments.lol-icon.app" # twikoo环境ID,vercel填地址
   region:
@@ -265,7 +265,7 @@ widgets:
 
 footer:
   # Specify the date when the site was set up. If not defined, current year will be used.
-  since: 2022
+  since: 2023
   icon:
     name: sakura rotate
     # Change the color of icon, using Hex Code.
