@@ -1,4 +1,4 @@
-alternate: My Blog # 站点大标题
+alternate: My Blog 我的站點 # 站点大标题
 
 statics: "/" # 静态文件根目录
 assets: "assets"
