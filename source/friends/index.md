@@ -1,6 +1,7 @@
 ---
 title: friends
 keywords: friends
+copyright: false
 ---
 
 # 本站資訊
