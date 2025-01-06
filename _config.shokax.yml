@@ -1,4 +1,4 @@
-alternate: # 站點大標題
+alternate: # 網站大標題
 
 statics: "/" # 靜態檔案根目錄
 assets: "assets"
@@ -222,9 +222,9 @@ waline:
 
 summary:
   enable: false
-  introduce: "我是基于ChatGPT-turbo-3.5实现的AI助手，在此网站上负责整理和概括文章" # AI自我介绍
+  introduce: "我是基於ChatGPT-turbo-3.5實現的AI助手，在此網站上負責整理和概括文章" # AI自我介紹
   mode: openai # openai/custom
-  pricing: "trial" # trial为试用模板(3 RPM);pay为即用即付模板(60 RPM)
+  pricing: "trial" # trial為試用範本(3 RPM); pay為即用即付範本(60 RPM)
   openai:
     remote: "https://api.openai.com"
     apikey: "key"
@@ -256,7 +256,7 @@ sidebar:
   position: left
   # position: right
   # Replace the default avatar image under <root>/source/_data/assets/ and set the url here.
-  avatar: avatar.jpg
+  avatar: avatar.webp
 
 widgets:
   # if true, will show random posts
@@ -278,7 +278,7 @@ footer:
     enable: true # 是否開啟
     word1: 中 #第一個字
     word2: 秋 #第二個字
-  icp: # ICP備案
+  icp: # ICP備案 (僅適用於中國大陸地區)
     enable: false
     # 請在登入後從 https://beian.mps.gov.cn/web/business/businessHome/website 下載答案圖標
     icon: "" #網安備案圖片
