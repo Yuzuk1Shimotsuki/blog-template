@@ -93,7 +93,7 @@ loader:
 
 # 使用polyfill.io自动处理浏览器兼容问题
 polyfill:
-  enable: true
+  enable: false
   features:
     - default
     - fetch
@@ -181,8 +181,8 @@ menu:
     default: / || user
     aboutsite: /about/  || user
     admiration: /admiration/ || coffee
-  posts:
-    default: / || feather
+  #posts:
+    #default: / || feather
     #archives: /archives/ || list-alt
     #categories: /categories/ || th
     #tags: /tags/ || tags
