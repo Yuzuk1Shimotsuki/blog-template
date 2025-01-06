@@ -45,9 +45,16 @@ relative_link: false
 future: true
 syntax_highlighter: false
 highlight:
-  enable: false
+  line_number: false
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
 prismjs:
-  enable: false
+  preprocess: false
+  line_number: true
+  tab_replace: ''
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
