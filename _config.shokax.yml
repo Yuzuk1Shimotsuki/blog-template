@@ -179,7 +179,7 @@ menu:
   home: / || home
   about:
    default: / || user
-   #aboutsite: /about/  || user
+   aboutsite: /about/  || user
    admiration: /admiration/ || coffee
   posts:
    default: / || feather
@@ -190,7 +190,7 @@ menu:
 
 # https://twikoo.js.org
 twikoo:
-  enable: true
+  enable: false
   mode: vercel # vercel或tencent
   envId: "https://comments.lol-icon.app" # twikoo环境ID,vercel填地址
   region:
