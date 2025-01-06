@@ -2,7 +2,7 @@
 title: friends
 keywords: friends
 copyright: false
-comment: true
+comments: true
 ---
 
 # 本站資訊
