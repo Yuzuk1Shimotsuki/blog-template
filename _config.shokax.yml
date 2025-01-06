@@ -1,4 +1,4 @@
-alternate: testName # 站点大标题
+alternate: # 站点大标题
 
 statics: "/" # 静态文件根目录
 assets: "assets"
