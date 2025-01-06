@@ -93,7 +93,7 @@ loader:
 
 # 使用polyfill.io自动处理浏览器兼容问题
 polyfill:
-  enable: false
+  enable: true
   features:
     - default
     - fetch
