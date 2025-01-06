@@ -177,22 +177,22 @@ iconfont: "4415496_59g1326wajd"
 
 menu:
   home: / || home
-  # about:
-  #   default: / || user
-  #   aboutsite: /about/  || user
-  #   admiration: /admiration/ || coffee
-  # posts:
-  #   default: / || feather
-  #   archives: /archives/ || list-alt
-  #   categories: /categories/ || th
-  #   tags: /tags/ || tags
-  # friends: /friends/ || heart
+  about:
+   default: / || user
+   aboutsite: /about/  || user
+   admiration: /admiration/ || coffee
+  posts:
+   default: / || feather
+   archives: /archives/ || list-alt
+   categories: /categories/ || th
+   tags: /tags/ || tags
+  friends: /friends/ || heart
 
 # https://twikoo.js.org
 twikoo:
-  enable: false
+  enable: true
   mode: vercel # vercel或tencent
-  envId: "https://example.com" # twikoo环境ID,vercel填地址
+  envId: "https://comments.lol-icon.app" # twikoo环境ID,vercel填地址
   region:
 
 # https://waline.js.org/
@@ -234,7 +234,7 @@ summary:
 # Value before `||` delimiter is the target permalink,
 # secend value is the name of Font icon.
 social:
-  github: https://github.com/yourname || github || "#191717"
+  github: https://github.com/Yuzuk1Shimotsuki || github || "#191717"
   #gitee: https://gitee.com/yourname || gitee || "#e60026"
   #google: https://plus.google.com/yourname || google
   #twitter: https://twitter.com/yourname || twitter || "#00aff0"
@@ -246,7 +246,7 @@ social:
   #facebook: https://www.facebook.com/yourname || facebook
   #stackoverflow: https://stackoverflow.com/ || stack-overflow
   #youtube: https://youtube.com/yourname || youtube
-  #instagram: https://instagram.com/yourname || instagram
+  instagram: https://instagram.com/goldenlight6628 || instagram
   #skype: skype:yourname?call|chat || skype
   #douban: https://www.douban.com/people/yourname/ || douban
 
