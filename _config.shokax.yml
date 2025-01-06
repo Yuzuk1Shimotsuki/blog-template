@@ -182,7 +182,7 @@ menu:
     aboutsite: /about/  || user
     admiration: /admiration/ || coffee
   posts:
-    #default: / || feather
+    default: / || feather
     #archives: /archives/ || list-alt
     #categories: /categories/ || th
     #tags: /tags/ || tags
