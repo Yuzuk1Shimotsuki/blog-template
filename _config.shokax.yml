@@ -177,15 +177,15 @@ iconfont: "4415496_59g1326wajd"
 
 menu:
   home: / || home
-  # about:
-  #   default: / || user
-  #   aboutsite: /about/  || user
-  #   admiration: /admiration/ || coffee
-  # posts:
-  #   default: / || feather
-  #   archives: /archives/ || list-alt
-  #   categories: /categories/ || th
-  #   tags: /tags/ || tags
+  about:
+    default: / || user
+    aboutsite: /about/  || user
+    admiration: /admiration/ || coffee
+  posts:
+    default: / || feather
+    archives: /archives/ || list-alt
+    categories: /categories/ || th
+    tags: /tags/ || tags
   friends: /friends/ || heart
 
 # https://twikoo.js.org
