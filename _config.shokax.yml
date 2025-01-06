@@ -140,37 +140,37 @@ font:
 
   # 適用於所有在body標籤內的文字.
   global:
-  external: true
-  family: Mulish
-  size:
+    external: true
+    family: Mulish
+    size:
 
   # 大標題字體.
   logo:
-  external: true
-  family: Fredericka the Great
-  size: 3.5
+    external: true
+    family: Fredericka the Great
+    size: 3.5
 
   # 頁面標題字體.
   title:
-  external: true
-  family: Noto Serif JP
-  size: 2.5
+    external: true
+    family: Noto Serif JP
+    size: 2.5
 
   # 標題字體.
   headings:
-  external: true
-  family: Noto Serif SC
-  size:
+    external: true
+    family: Noto Serif SC
+    size:
 
   # 文章字體.
   posts:
-  external: false
-  family:
+    external: false
+    family:
 
   # 程式碼區塊的字體
   codes:
-  external: true
-  family: Inconsolata
+    external: true
+    family: Inconsolata
 
 # //at.alicdn.com/t/c/font_4415496_59g1326wajd.css => 4415496_59g1326wajd
 # 自訂iconfont圖示請參閱文件教學課程
