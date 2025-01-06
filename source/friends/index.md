@@ -1,7 +1,6 @@
 ---
 layout: page
 title: friends
-title: friends
 keywords: friends
 copyright: false
 ---
