@@ -146,7 +146,7 @@ font:
   # 大标题字体.
   logo:
     external: true
-    family: Noto Serif JP
+    family: Noto Serif SC
     size: 3.5
 
   # 页面标题字体.
