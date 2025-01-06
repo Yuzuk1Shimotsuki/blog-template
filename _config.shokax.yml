@@ -1,6 +1,6 @@
-alternate: # 站点大标题
+alternate: # 站點大標題
 
-statics: "/" # 静态文件根目录
+statics: "/" # 靜態檔案根目錄
 assets: "assets"
 css: "css"
 js: "js"
@@ -11,58 +11,58 @@ open_graph:
 #fb_admins:
 #fb_app_id:
 
-grayMode: false # 全站黑白滤镜
-# 请注意: 本主题的PWA功能只是一个装载器,需要自备js和manifest
-# 图片可通过https://lp-pwa.gitee.io/pwa-genicon/生成
+grayMode: false # 全站黑白濾鏡
+# 請注意: 本主題的PWA功能只是一個裝載器,需要自備js和manifest
+# 圖片可透過https://lp-pwa.gitee.io/pwa-genicon/生成
 pwa:
-  enable: false # 开启PWA功能
-  serviceworker: sw.js #serviceworker脚本位置,使用以/为基准的绝对路径
-  manifest: manifest.json #manifest位置,使用以/为基准的绝对路径
+  enable: false # 開啟PWA功能
+  serviceworker: sw.js #serviceworker腳本位置,使用以/為基準的絕對路徑
+  manifest: manifest.json #manifest位置,使用以/為基準的絕對路徑
 
-# 实验性特性
+# 實驗性特性
 experiments:
-  debug: false # 使用debug模式启动
-  disableThemeComment: false # 禁用主题评论系统(一般用于关闭评论或让插件接管评论系统)
-  usingRelative: false # _image.yml 使用相对路径
-  optimizeLongPosts: false # 优化长文章，这能让长文章的FPS提升70%-150%并解决假死问题，但存在一些副作用
-  # 具体见https://docs.kaitaku.xyz/guide/theme.html#%E9%95%BF%E6%96%87%E7%AB%A0%E4%BC%98%E5%8C%96
-  mobileWidth: 820px # 移动版和桌面版导航栏最短切换长度
-  # 使用 Cloudflare Rocket 或其他优化功能时需开启下列补丁，否则主题无法渲染
+  debug: false # 使用debug模式啟動
+  disableThemeComment: false # 停用主題評論系統(一般用於關閉評論或讓外掛程式接管評論系統)
+  usingRelative: false # _image.yml 使用相對路徑
+  optimizeLongPosts: false # 優化長文章，這能讓長文章的FPS提升70%-150%並解決假死問題，但存在一些副作用
+  # 具體見https://docs.kaitaku.xyz/guide/theme.html#%E9%95%BF%E6%96%87%E7%AB%A0%E4%BC%98%E5%8C%96
+  mobileWidth: 820px # 行動版與桌面版導覽列最短切換長度
+  # 使用 Cloudflare Rocket 或其他最佳化功能時需開啟下列補丁，否則主體無法渲染
   cloudflarePatch: false
   coverConfig:
-    enableCover: true # 是否开启头图
-    enablePreload: true #是否开启预加载头图
-    enableNextGradientCover: false # 使用CSS渐变作为上/下一页封面
-  copyrightLength: 50 # 自定义复制时显示copyright的长度
+    enableCover: true # 是否開啟頭圖
+    enablePreload: true #是否開啟預載頭圖
+    enableNextGradientCover: false # 使用CSS漸層作為上/下一頁封面
+  copyrightLength: 50 # 自訂複製時顯示copyright的長度
 
 homeConfig:
-  gradient: false # 使用CSS渐变作为文章封面
-  # fixedCover 性能比默认的更好，且开启时将启用LCP优化和预加载 TODO
-  fixedCover: "" # 主页面cover(为空则使用bing随机图片)
+  gradient: false # 使用CSS漸層作為文章封面
+  # fixedCover 效能比預設的更好，且開啟時將啟用LCP最佳化和預先載入 TODO
+  fixedCover: "" # 主頁cover(為空則使用bing隨機圖片)
 
-# ShokaX 模块化分包引入设置
-# 请关闭所有不使用的模块以优化主题 js 体积和性能
+# ShokaX 模組化分包引入設置
+# 請關閉所有不使用的模組以優化主題 js 體積和效能
 modules:
-  player: true # 启用音乐播放器
-  fireworks: true # 启用鼠标点击烟花特效
-  unlazyHash: false # 启用unlazy hash预览图支持
-  visibilityListener: true # 启用可见度监听器
-  tabs: true # 启用选项卡扩展支持，如需开启 summary 功能请一并开启
-  quiz: true # 启用文章内问题扩展支持
-  fancybox: true # 启用 fancybox 支持（不建议禁用）
+  player: true # 啟用音樂播放器
+  fireworks: true # 啟用滑鼠點擊煙火特效
+  unlazyHash: false # 啟用unlazy hash預覽圖支持
+  visibilityListener: true # 啟用可見度監聽器
+  tabs: true # 啟用選項卡擴充支持，如需開啟 summary 功能請一併開啟
+  quiz: true # 啟用文章內問題擴充支持
+  fancybox: true # 啟用 fancybox 支援（不建議停用）
 
-# 优化性能区
+# 優化效能區
 performance:
-  # 使用preconnect预加载的网址(不建议超过三个)
+  # 使用preconnect預先載入的網址(不建議超過三個)
   preConnect:
     - "https://s4.zstatic.net"
     - "https://at.alicdn.com"
-  # 使用dns-prefetch预解析的网址
+  # 使用dns-prefetch預解析的網址
   dnsPrefetch:
 
-playerAPI: "https://api.injahow.cn" # 结尾不带/,只填写域名
-# 如果条件允许,请参考 https://github.com/injahow/meting-api 自建API
-# 使用vercel自行部署,请参考: https://github.com/xizeyoupan/Meting-API
+playerAPI: "https://api.injahow.cn" # 結尾不帶/,只填入域名
+# 如果條件允許,請參考 https://github.com/injahow/meting-api 自建API
+# 使用vercel自行部署,請參考: https://github.com/xizeyoupan/Meting-API
 
 icon:
   favicon: "/favicon.ico"
@@ -80,26 +80,26 @@ visitor:
   googleAnalytics: false
 
 darkmode: true
-auto_dark: # 自动亮/暗模式
-  enable: true #是否开启
-  start: 20 #开始时间
-  end: 7 #结束时间
+auto_dark: # 自動亮/暗模式
+  enable: true #是否開啟
+  start: 20 #開始時間
+  end: 7 #結束時間
 
 auto_scroll: false
 
 loader:
-  start: true # 进入页面时显示加载动画
-  switch: false # 切换页面时显示加载动画
+  start: true # 進入頁面時顯示載入動畫
+  switch: false # 切換頁面時顯示載入動畫
 
-# 使用polyfill.io自动处理浏览器兼容问题
+# 使用polyfill.io自動處理瀏覽器相容問題
 polyfill:
   enable: false
   features:
-    - default
-    - fetch
+  - default
+  - fetch
 
-# 显示的动画(烟花)
-# 参阅 https://github.com/D-Sketon/mouse-firework
+# 顯示的動畫(煙火)
+# 參閱 https://github.com/D-Sketon/mouse-firework
 fireworks:
   enable: true
   options:
@@ -128,51 +128,52 @@ fireworks:
           alpha: 0.5
           lineWidth: 6
 
+
 font:
   enable: true
-  # 从google字体库加载,如果自定义@font-face请关闭
+  # 從google字體庫載入,如果自訂@font-face請關閉
   loadFromGoogle: true
-  # 字体选项:
-  # `external`:从google字体库加载字体.
-  # `family: 字体家族名,无需引号
-  # `size: x.x`. 以`em`为单位. 默认: 1 (16px)
+  # 字體選項:
+  # `external`:從google字體庫載入字體.
+  # `family: 字體家族名稱,無需引號
+  # `size: x.x`. 以`em`為單位. 預設: 1 (16px)
 
-  # 适用于所有在body标签内的文字.
+  # 適用於所有在body標籤內的文字.
   global:
-    external: true
-    family: Mulish
-    size:
+  external: true
+  family: Mulish
+  size:
 
-  # 大标题字体.
+  # 大標題字體.
   logo:
-    external: true
-    family: Fredericka the Great
-    size: 3.5
+  external: true
+  family: Fredericka the Great
+  size: 3.5
 
-  # 页面标题字体.
+  # 頁面標題字體.
   title:
-    external: true
-    family: Noto Serif JP
-    size: 2.5
+  external: true
+  family: Noto Serif JP
+  size: 2.5
 
-  # 标题字体.
+  # 標題字體.
   headings:
-    external: true
-    family: Noto Serif SC
-    size:
+  external: true
+  family: Noto Serif SC
+  size:
 
-  # 文章字体.
+  # 文章字體.
   posts:
-    external: false
-    family:
+  external: false
+  family:
 
-  # 代码块的字体
+  # 程式碼區塊的字體
   codes:
-    external: true
-    family: Inconsolata
+  external: true
+  family: Inconsolata
 
 # //at.alicdn.com/t/c/font_4415496_59g1326wajd.css => 4415496_59g1326wajd
-# 自定义iconfont图标参见文档教程
+# 自訂iconfont圖示請參閱文件教學課程
 iconfont: "4415496_59g1326wajd"
 
 menu:
@@ -192,7 +193,7 @@ menu:
 twikoo:
   enable: true
   mode: vercel # vercel或tencent
-  envId: "https://comments.lol-icon.app" # twikoo环境ID,vercel填地址
+  envId: "https://comments.lol-icon.app" # twikoo環境ID,vercel填地址
   region:
 
 # https://waline.js.org/
@@ -200,7 +201,7 @@ waline:
   enable: false
   serverURL: ""
   lang: "zh-CN"
-  locale: {} # https://waline.js.org/guide/features/i18n.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80
+  locale: {} # https://waline.js.org/guide/features/i18n.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8% A8%80
   emoji: # 表情包
     - https://unpkg.com/@waline/emojis@1.0.1/weibo
     - https://unpkg.com/@waline/emojis@1.0.1/alus
@@ -208,16 +209,16 @@ waline:
     - https://unpkg.com/@waline/emojis@1.0.1/qq
     - https://unpkg.com/@waline/emojis@1.0.1/tieba
     - https://unpkg.com/@waline/emojis@1.0.1/tw-emoji
-  meta: # 可以填写的内容
+  meta: # 可以填寫的內容
     - nick
     - mail
     - link
-  requiredMeta: # 必须填写的内容
+  requiredMeta: # 必須填寫的內容
     - nick
     - mail
-  wordLimit: 0 # 字数限制,0为不限制
-  pageSize: 10 # 每页评论条数
-  pageview: false # 是否开启浏览量统计,可独立开启
+  wordLimit: 0 # 字數限制,0為不限制
+  pageSize: 10 # 每頁評論條數
+  pageview: false # 是否開啟瀏覽量統計,可獨立開啟
 
 summary:
   enable: false
@@ -274,16 +275,16 @@ footer:
   count: true
   powered: true
   lantern:
-    enable: true #是否开启
-    word1: 中 #第一个字
-    word2: 秋 #第二个字
-  icp: # ICP备案
+    enable: true # 是否開啟
+    word1: 中 #第一個字
+    word2: 秋 #第二個字
+  icp: # ICP備案
     enable: false
-    # 请在登录后从 https://beian.mps.gov.cn/web/business/businessHome/website 下载对应图标
-    icon: "" #网安备案图片
-    icpnumber: "xxx" # ICP备案号
-    beian: "xxx" # 网安备案号
-    recordcode: "xxx" # 网安备案链接中的recordcode参数
+    # 請在登入後從 https://beian.mps.gov.cn/web/business/businessHome/website 下載答案圖標
+    icon: "" #網安備案圖片
+    icpnumber: "xxx" # ICP備案號
+    beian: "xxx" #網安備案號
+    recordcode: "xxx" # 網安備案連結中的recordcode參數
 
 post:
   count: true
@@ -291,7 +292,7 @@ post:
 # 文章是否失效
 outime:
   enable: false
-  days: 90 # 超过 90 天文章失效
+  days: 90 # 超過 90 天文章失效
 
 reward:
   # If true, reward will be displayed in every article by default.
@@ -324,13 +325,13 @@ creative_commons:
   language: deed.zh
 
 # bgm
-# 不使用请打开noplayer功能
+# 不使用請開啟noplayer功能
 audio:
-#  - title: 列表1
+#  - title: 清單1
 #    list:
 #      - https://music.163.com/#/playlist?id=2943811283
 #      - https://music.163.com/#/playlist?id=2297706586
-#  - title: 列表2
+#  - title: 清單2
 #    list:
 #      - https://music.163.com/#/playlist?id=2031842656
 
