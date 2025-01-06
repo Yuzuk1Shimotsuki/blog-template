@@ -179,7 +179,7 @@ menu:
   home: / || home
   about:
    default: / || user
-   aboutsite: /about/  || user
+   #aboutsite: /about/  || user
    admiration: /admiration/ || coffee
   posts:
    default: / || feather
