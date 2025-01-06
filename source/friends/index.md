@@ -3,6 +3,7 @@ layout: page
 title: friends
 keywords: friends
 copyright: false
+comments: true
 ---
 
 # 本站資訊
