@@ -181,11 +181,11 @@ menu:
     default: / || user
     aboutsite: /about/  || user
     admiration: /admiration/ || coffee
-  posts:
-    default: / || feather
-    archives: /archives/ || list-alt
-    categories: /categories/ || th
-    tags: /tags/ || tags
+  #posts:
+    #default: / || feather
+    #archives: /archives/ || list-alt
+    #categories: /categories/ || th
+    #tags: /tags/ || tags
   #friends: /friends/ || heart
 
 # https://twikoo.js.org
