@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-# About Me
+# root@me#~:
 - ❄️
 - 05 🐔
 - [性格測試](https://www.16personalities.com/intj-personality?utm_source=results-turbulent-architect&utm_medium=email&utm_campaign=en&utm_content=view-results)
@@ -21,11 +21,11 @@ title: about
 - ...
 
 ## 興趣
-- 程式開發和設計
-- 烹飪
-- 單車
-- 溜冰
-- 交通迷 (aka.巴膠 鐵膠...)
+- 程式開發和設計 💻
+- 料理 🍛🥘🍜
+- 自転車 🚴‍♂️
+- スケート⛸️
+- 交通迷 (aka.巴膠 鐵膠 🙄...)
 
 # 常用賬號
 - 經常蒲頭
