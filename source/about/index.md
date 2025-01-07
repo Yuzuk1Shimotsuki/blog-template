@@ -8,11 +8,11 @@ title: about
 - 05 🐔
 - [性格測試](https://www.16personalities.com/intj-personality?utm_source=results-turbulent-architect&utm_medium=email&utm_campaign=en&utm_content=view-results)
 
-| Personality Type                 | Mind           | Energy       | Nature      | Tactics     | Identity    | Date taken  |
+| Personality Type                 | [Mind](https://www.16personalities.com/articles/mind-intuitive-vs-observant)           | [Energy](https://www.16personalities.com/articles/energy-introverted-vs-extraverted)       | [Nature](https://www.16personalities.com/articles/nature-thinking-vs-feeling)      | [Tactics](https://www.16personalities.com/articles/tactics-judging-vs-prospecting)     | [Identity](https://www.16personalities.com/articles/identity-assertive-vs-turbulent)    | Date taken  |
 |----------------------------------|----------------|--------------|-------------|-------------|-------------|-------------|
-| Assertive Architect (INTJ-T)     | 57%             | 51%           | 53%          | 51%          | 60%           | 2024-11-03  | \
+| [Assertive Architect](https://www.16personalities.com/intj-personality)              | 57%             | 51%           | 53%          | 51%          | 60%           | 2024-11-03  | \
 | (INTJ-T)                         | Introverted     | Intuitive     | Thinking     | Judging      | Assertive     |             |
-| Assertive Architect (INTJ-T)     | 56%             | 48%           | 52%          | 50%          | 58%           | 2022-05-08  | \
+| [Assertive Architect](https://www.16personalities.com/intj-personality)              | 56%             | 48%           | 52%          | 50%          | 58%           | 2022-05-08  | \
 | (INTJ-T)                         | Introverted     | Intuitive     | Thinking     | Judging      | Assertive     |             |
 
 
