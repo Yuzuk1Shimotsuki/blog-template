@@ -14,6 +14,22 @@ title: about
 | Assertive Architect <br>(INTJ-T) | 56% <br>Introverted | 48% <br>Intuitive | 52% <br>Thinking | 50% <br>Judging  | 58% <br>Assertive | 2022-05-07  |
 
 
+
+| Personality Type                 | Mind             | Energy         | Nature        | Tactics       | Identity        | Test Date  |
+|----------------------------------|------------------|----------------|---------------|---------------|-----------------|------------|
+| Assertive Architect              |                  |                |               |               |                 |            |
+| (INTJ-A)                         | 58% Introverted  | 63% Intuitive  | 54% Thinking  | 79% Judging   | 82% Assertive   | 2020-05-20 |
+|                                  |                  |                |               |               |                 |            |
+| Assertive Advocate               |                  |                |               |               |                 |            |
+| (INFJ-A)                         | 76% Introverted  | 61% Intuitive  | 56% Feeling   | 71% Judging   | 64% Assertive   | 2021-05-28 |
+|                                  |                  |                |               |               |                 |            |
+| Turbulent Advocate               |                  |                |               |               |                 |            |
+| (INFJ-T)                         | 62% Introverted  | 66% Intuitive  | 61% Feeling   | 67% Judging   | 51% Turbulent   | 2023-04-04 |
+|                                  |                  |                |               |               |                 |            |
+
+
+
+
 ## 在做的事
 - 一個正在讀 electrical engineering 的大學生
 - 後端開發者(Since 2023)
