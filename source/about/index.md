@@ -17,7 +17,7 @@ title: about
 
 ## 在做的事
 - 一個正在讀 electrical engineering 的大學生
-- 後端開發者(Since 2023)
+- 後端開發者 [(Since 2022)]{.label}
 - ...
 
 ## 興趣
