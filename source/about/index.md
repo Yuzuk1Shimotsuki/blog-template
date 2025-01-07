@@ -10,19 +10,8 @@ title: about
 
 | Personality Type         | Mind           | Energy       | Nature      | Tactics     | Identity    | Test Date   |
 |--------------------------|----------------|--------------|-------------|-------------|-------------|-------------|
-| Assertive Architect <br>(INTJ-T) | 57% <br>Introverted | 51% <br>Intuitive | 53% <br>Thinking | 51% <br>Judging  | 60% <br>Assertive | 2024-11-03  |
+| Assertive Architect <br/>(INTJ-T) | 57% <br>Introverted | 51% <br>Intuitive | 53% <br>Thinking | 51% <br>Judging  | 60% <br>Assertive | 2024-11-03  |
 | Assertive Architect <br>(INTJ-T) | 56% <br>Introverted | 48% <br>Intuitive | 52% <br>Thinking | 50% <br>Judging  | 58% <br>Assertive | 2022-05-07  |
-
-
-+-------------------------------+------------------+----------------+--------------+-------------+-------------+-------------+
-| Personality Type              | Mind             | Energy         | Nature       | Tactics     | Identity    | Test Date   |
-+===============================+==================+================+==============+=============+=============+=============+
-| Assertive Architect           | 57%              | 51%            | 53%          | 51%         | 60%         | 2024-11-03  |
-| (INTJ-T)                      | Introverted      | Intuitive      | Thinking     | Judging     | Assertive   |             |
-+-------------------------------+------------------+----------------+--------------+-------------+-------------+-------------+
-| Assertive Architect           | 56%              | 48%            | 52%          | 50%         | 58%         | 2022-05-08  |
-| (INTJ-T)                      | Introverted      | Intuitive      | Thinking     | Judging     | Assertive   |             |
-+-------------------------------+------------------+----------------+--------------+-------------+-------------+-------------+
 
 
 ## 在做的事
