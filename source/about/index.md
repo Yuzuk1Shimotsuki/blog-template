@@ -15,13 +15,6 @@ title: about
 | [Assertive Architect](https://www.16personalities.com/intj-personality)              | 56%             | 48%           | 52%          | 50%          | 58%           | 2022-05-08  | \
 | (INTJ-T)                         | Introverted     | Intuitive     | Thinking     | Judging      | Assertive     |             |
 
-
-
-
-
-
-
-
 ## 在做的事
 - 一個正在讀 electrical engineering 的大學生
 - 後端開發者(Since 2023)
@@ -36,15 +29,17 @@ title: about
 
 # 常用賬號
 - 經常蒲頭
-  - pending
+  - [Ching](https://github.com/Yuzuk1Shimotsuki/website/edit/main/source/about/index.md) @ [Telegram](https://telegram.org/)
+  - [白蜂トップスター](https://discord.com/users/885756325798227988) @ [Discord](https://discord.com/)
 
 - 長期潛水
-  - pending
+  - Pending...
 
 
 ## 網站
+- Pending...
 
 ## 目前項目
 - [2024-]{.label} 本站
 - [2023-]{.label} Discord 機器人開發人員
-- 想不到啊啊QAQ
+- 想不到啊啊 (⋟﹏⋞)
