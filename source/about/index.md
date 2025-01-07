@@ -29,7 +29,7 @@ title: about
 
 # 常用賬號
 - 經常蒲頭
-  - [Ching](https://github.com/Yuzuk1Shimotsuki/website/edit/main/source/about/index.md) @ [Telegram](https://telegram.org/)
+  - [Ching](https://t.me/CodeCrafter404) @ [Telegram](https://telegram.org/)
   - [白蜂トップスター](https://discord.com/users/885756325798227988) @ [Discord](https://discord.com/)
 
 - 長期潛水
