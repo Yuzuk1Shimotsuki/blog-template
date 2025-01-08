@@ -74,6 +74,4 @@ Educators use "Supercalifragilisticexpialidocious" as a tool to teach language c
 ## Prologue
 "Supercalifragilisticexpialidocious" is more than just a tongue twister; it's a testament to the creativity and playfulness of the English language. It brings joy, whimsy, and a bit of magic to those who encounter it. Whether you're singing along to the iconic song or using it to describe something wonderfully fantastical, this word has cemented its place in the hearts and minds of people all over the world.
 
-Its enduring legacy is a reminder that language is not just a tool for communication but a source of joy, creativity, and endless fascination. So the next time you encounter something truly extraordinary, remember that you have a word as magical as "supercalifragilisticexpialidocious" to describe it.
-
-Would you like to know more about *Mary Poppins*, the Sherman Brothers, or any other interesting linguistic phenomena? 😊
+Its enduring legacy is a reminder that language is not just a tool for communication but a source of joy, creativity, and endless fascination. So the next time you encounter something truly extraordinary, remember that you have a word as magical as "supercalifragilisticexpialidocious" to describe it :D
