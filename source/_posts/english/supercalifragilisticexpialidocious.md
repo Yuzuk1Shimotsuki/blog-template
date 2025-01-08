@@ -69,7 +69,7 @@ The phonetic structure of "Supercalifragilisticexpialidocious" contributes to it
 ### Educational Value
 Educators use "Supercalifragilisticexpialidocious" as a tool to teach language concepts, such as syllable division, phonetics, and word formation. Its playful nature makes learning fun and engaging, helping students to develop a love for language and an appreciation for linguistic creativity.
 
-# Prologue
+## Prologue
 "Supercalifragilisticexpialidocious" is more than just a tongue twister; it's a testament to the creativity and playfulness of the English language. It brings joy, whimsy, and a bit of magic to those who encounter it. Whether you're singing along to the iconic song or using it to describe something wonderfully fantastical, this word has cemented its place in the hearts and minds of people all over the world.
 
 Its enduring legacy is a reminder that language is not just a tool for communication but a source of joy, creativity, and endless fascination. So the next time you encounter something truly extraordinary, remember that you have a word as magical as "supercalifragilisticexpialidocious" to describe it :D
