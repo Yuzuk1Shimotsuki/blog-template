@@ -2,7 +2,7 @@
 layout: page
 title: about
 math: true
-language: en
+language: zh-HK
 ---
 
 # root@me#~:
