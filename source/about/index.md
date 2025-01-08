@@ -54,6 +54,6 @@ copyright: true
 - 2025 年 1 月 成功遷移網站至[ShokaX主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)，並將於月底前停用2022 年開設的個人簡介
 
 ## 目前項目
-- [2024-]{.label} 本站
+- [2023-]{.label} 本站
 - [2023-]{.label} Discord 機器人開發人員
 - 想不到啊啊 (⋟﹏⋞)
