@@ -1,4 +1,4 @@
-title: Word of the day No.1: Supercalifragilisticexpialidocious
+title: Word of the day No.1 - Supercalifragilisticexpialidocious
 tags: [english]
 categories:
   - Word of the day
