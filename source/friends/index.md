@@ -9,7 +9,9 @@ keywords: friends
 - 標誌： ![Yuzuki Shimotsuki](https://lol-icon.app/assets/avatar.webp){height="100" width="100"}
 - 網址： https://lol-icon.app
 - 簡介： 一片既充滿知識又堆滿垃圾的海洋
-- 始創於： 2023 年 5 月
+- 始創於： 
+  - 舊站： 2020 年 9 月 @ [Wix.com](https://www.wix.com/) (已於 2021 年 11 月 關閉)
+  - 新站： 2023 年 5 月
 
 # 申請方法
 - 在本頁底部留言，格式如下：
