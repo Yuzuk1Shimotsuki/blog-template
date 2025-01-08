@@ -3,7 +3,7 @@ layout: page
 title: about
 math: true
 language: zh-HK
-nocopy: true
+copyright_author: Testing
 ---
 
 # root@me#~:
