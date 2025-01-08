@@ -24,7 +24,7 @@ copyright: true
 - ...
 
 ## 興趣
-- 程式開發 $&$ 設計 💻
+- 程式開發 & 設計 💻
 - 料理 🍛🥘🍜
 - 自転車 🚴‍♂️
 - スケート⛸️
@@ -32,10 +32,12 @@ copyright: true
 
 # 常用賬號
 - 經常蒲頭
+  - [霜月柚希 🍊](https://github.com/Yuzuk1Shimotsuki) @ [GitHub](https://github.com/) 
   - [Ching](https://t.me/CodeCrafter404) @ [Telegram](https://telegram.org/)
   - [白蜂トップスター](https://discord.com/users/885756325798227988) @ [Discord](https://discord.com/)
 
 - 長期潛水
+  - [TurePotato5838](https://www.reddit.com/user/TruePotato5838/) @ [Reddit](https://www.reddit.com/)
   - Pending...
 
 
