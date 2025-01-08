@@ -48,7 +48,7 @@ copyright: true
   - 以 [Hexo](https://hexo.io/) 靜態生成
   - 使用 [Butterfly](https://butterfly.js.org/) 主題
   - 部署於 [Microsoft Azure](https://azure.microsoft.com/)
-- 2024 年 1 月 曾兩度嘗試轉用[Shoka主題](https://github.com/amehime/hexo-theme-shoka)，然而在學業壓力和技術問題的影響下最終以失敗告終...
+- 2024 年 1 月 曾兩度嘗試轉用[Shoka主題](https://github.com/amehime/hexo-theme-shoka)，唯因學業壓力和技術問題而最終以失敗告終...
 - 2024 年 10 月尾 改用新域名
 - 2024 年 12 月中 更換VPS配置以重啟遷移工作，並改為遷移至[ShokaX主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)
 - 2025 年 1 月 順利遷站並改用[ShokaX主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)，同時改稱站名為 [柚希的迷你寶藏室 🍊](https://lol-icon.app)
