@@ -67,6 +67,11 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  "English": english
+  "Computer Science": computer-science
+  "Computer Engineering": computer-engineering
+  "Hexo": hexo
+  "Networking": networking
 tag_map:
 
 # Metadata elements
