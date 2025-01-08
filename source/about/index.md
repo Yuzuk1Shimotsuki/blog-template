@@ -2,6 +2,7 @@
 layout: page
 title: about
 math: true
+language: en
 ---
 
 # root@me#~:
