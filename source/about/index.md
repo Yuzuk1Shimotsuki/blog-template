@@ -43,15 +43,15 @@ copyright: true
 
 ## 建站簡史
 - 始於 2020 @ [Wix.com](https://www.wix.com/) 以便存放筆記自用，其後因需求問題於2021年底關閉
-- 2022年開設個人簡介並於 [Beacons.ai](https://beacons.ai)公開
-- 重建於 2023年 5月 [My Blog]{.label}
-  - 以 Hexo 靜態生成
-  - 使用 Butterfly 主題
-  - 部署於 MS Azure
-- 2024 年 1 月 曾兩度嘗試轉用Shoka主題，然而在學業壓力和技術問題的影響下最終以失敗告終...
+- 2022 年開設個人簡介並於 [Beacons.ai](https://beacons.ai)公開
+- 重建於2023 年 5 月 @ [My Blog]{.label}
+  - 以 [Hexo](https://hexo.io/) 靜態生成
+  - 使用 [Butterfly](https://butterfly.js.org/) 主題
+  - 部署於 [Microsoft Azure](https://azure.microsoft.com/)
+- 2024 年 1 月 曾兩度嘗試轉用[Shoka主題](https://github.com/amehime/hexo-theme-shoka)，然而在學業壓力和技術問題的影響下最終以失敗告終...
 - 2024 年 10 月尾 改用新域名
-- 2024 年 12 中 更換VPS配置以重啟遷移工作，並改為遷移至ShokaX主題
-- 2025 年 1 月 成功遷移網站至ShokaX主題，並打算於月底前停用個人簡介
+- 2024 年 12 月中 更換VPS配置以重啟遷移工作，並改為遷移至[ShokaX主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)
+- 2025 年 1 月 成功遷移網站至[ShokaX主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)，並打算於月底前停用2022 年開設的個人簡介
 
 ## 目前項目
 - [2024-]{.label} 本站
