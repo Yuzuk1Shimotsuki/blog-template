@@ -2,7 +2,7 @@ title: Word of the day No.1 - Supercalifragilisticexpialidocious
 tags: [english]
 categories:
   - Word of the day
-  - Enlish
+  - English
 date: 2025-01-02 01:40:12
 ---
 # Supercalifragilisticexpialidocious
