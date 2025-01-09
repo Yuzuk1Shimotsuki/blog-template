@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title:
-subtitle: "<span style=\"font-family: 'Noto Serif JP', sans-serif;\">一片既充滿知識又堆滿垃圾的海洋 ~(￣▽￣)~*</span>"
-description: "Focus on the solution, not the problem."
+title: 柚希的溫馨小窩🍊
+subtitle: "一片既充滿知識又堆滿垃圾的海洋 ~(￣▽￣)~*"
+description: "<span style=\"font-family: 'Noto Serif JP', sans-serif;\"Focus on the solution, not the problem.</span>"
 keywords:
-author: Yuzuki Shimotsuki
+author: "<span style=\"font-family: 'Noto Sans', sans-serif;\">Yuzuki Shimotsuki</span>"
 language: zh-HK
 timezone: 'Asia/Shanghai'
 
