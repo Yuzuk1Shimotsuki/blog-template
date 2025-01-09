@@ -140,7 +140,7 @@ font:
 
   # 適用於所有在body標籤內的文字.
   global:
-    external: true
+    external: false
     family: Noto Serif JP
     size:
 
