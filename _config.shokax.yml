@@ -1,4 +1,4 @@
-alternate: "<span style=\"font-family: 'Noto Serif JP', sans-serif;\">一片既充滿知識又堆滿垃圾的海洋 ~(￣▽￣)~*</span>" # 網站大標題
+alternate: # 網站大標題
 
 statics: "/" # 靜態檔案根目錄
 assets: "assets"
