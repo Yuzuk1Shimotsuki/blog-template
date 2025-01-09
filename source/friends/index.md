@@ -4,7 +4,7 @@ keywords: friends
 ---
 
 # 本站資訊
-- 站名： 柚希的迷你寶藏室 🍊
+- 站名： 柚希的溫馨小窩 🍊
 - 站長： 霜月柚希 🍊
 - 標誌： ![Yuzuki Shimotsuki](https://lol-icon.app/assets/avatar.webp){height="100" width="100"}
 - 網址： https://lol-icon.app
