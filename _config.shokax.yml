@@ -159,7 +159,7 @@ font:
   # 標題字體.
   headings:
     external: true
-    family: Noto Serif SC
+    family: Noto Serif JP
     size:
 
   # 文章字體.
