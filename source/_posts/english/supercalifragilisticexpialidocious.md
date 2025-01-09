@@ -6,7 +6,7 @@ categories:
 date: 2025-01-02 01:40:12
 language: en
 ---
-## supercalifragilisticexpialidocious /ˌsuːpəkalɪˌfradʒɪlɪstɪkˌɛkspɪalɪˈdəʊʃəs/ adj.
+## supercalifragilisticexpialidocious /ˌsuːpəkalɪˌfradʒɪlɪstɪkˌɛkspɪalɪˈdəʊʃəs/ adj.  ★★★★☆
 "Supercalifragilisticexpialidocious" is a made-up word that gained fame through the 1964 Disney musical film *Mary Poppins*. It was sung by Julie Andrews and Dick Van Dyke in the song of the same name. The songwriters, the Sherman Brothers (Richard and Robert Sherman), created this whimsical word to evoke a sense of fun and wonder. It encapsulates the magical and extraordinary nature of the character Mary Poppins and the world she inhabits.
 
 ### Early References and Coinage
