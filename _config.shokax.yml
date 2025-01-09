@@ -141,7 +141,7 @@ font:
   # 適用於所有在body標籤內的文字.
   global:
     external: true
-    family: Noto Sans
+    family: Noto Serif TC
     size:
 
   # 大標題字體.
@@ -159,7 +159,7 @@ font:
   # 標題字體.
   headings:
     external: true
-    family: Noto Serif JP
+    family: Noto Serif SC
     size:
 
   # 文章字體.
