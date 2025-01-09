@@ -140,8 +140,8 @@ font:
 
   # 適用於所有在body標籤內的文字.
   global:
-    external: true
-    family: Noto Sans
+    external: false
+    family:
     size:
 
   # 大標題字體.
