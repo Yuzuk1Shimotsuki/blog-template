@@ -1,4 +1,4 @@
-alternate: 柚希的溫馨小窩🍊 # 網站大標題
+alternate: <div style="font-family: 'Noto Sans', sans-serif;">柚希的溫馨小窩🍊</div> # 網站大標題
 
 statics: "/" # 靜態檔案根目錄
 assets: "assets"
