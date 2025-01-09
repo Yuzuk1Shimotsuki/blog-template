@@ -147,7 +147,7 @@ font:
   # 大標題字體.
   logo:
     external: true
-    family: Noto Serif JP
+    family: Fredericka the Great
     size: 3.5
 
   # 頁面標題字體.
@@ -159,13 +159,13 @@ font:
   # 標題字體.
   headings:
     external: true
-    family: Noto Serif JP
+    family: Noto Serif TC
     size:
 
   # 文章字體.
   posts:
-    external: true
-    family: Noto Serif JP
+    external: false
+    family:
 
   # 程式碼區塊的字體
   codes:
