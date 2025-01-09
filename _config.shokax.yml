@@ -130,7 +130,7 @@ fireworks:
 
 
 font:
-  enable: true
+  enable: false
   # 從google字體庫載入,如果自訂@font-face請關閉
   loadFromGoogle: false
   # 字體選項:
