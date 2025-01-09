@@ -53,7 +53,7 @@ copyright: true
 - 2024 年 1 月 曾兩度嘗試轉用[Shoka主題](https://github.com/amehime/hexo-theme-shoka)，唯因學業壓力和技術問題而最終以失敗告終...
 - 2024 年 10 月尾 改用新域名
 - 2024 年 12 月中 更換VPS配置以重啟遷移工作，並決定改用[ShokaX主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)
-- 2025 年 1 月 順利遷站，同時改稱站名為 [柚希的迷你寶藏室 🍊](https://lol-icon.app)
+- 2025 年 1 月 順利遷站，同時改稱站名為 [柚希的溫馨小窩🍊](https://lol-icon.app)
 - 原於 2022 年開設的個人簡介亦因此將於 2025 年 1 月尾前棄用
 
 ## 目前項目
