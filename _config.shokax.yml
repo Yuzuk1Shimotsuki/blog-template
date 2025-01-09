@@ -132,7 +132,7 @@ fireworks:
 font:
   enable: true
   # 從google字體庫載入,如果自訂@font-face請關閉
-  loadFromGoogle: true
+  loadFromGoogle: false
   # 字體選項:
   # `external`:從google字體庫載入字體.
   # `family: 字體家族名稱,無需引號
@@ -141,7 +141,7 @@ font:
   # 適用於所有在body標籤內的文字.
   global:
     external: true
-    family: Noto Serif JP
+    family: Noto Serif SC
     size:
 
   # 大標題字體.
