@@ -147,7 +147,7 @@ font:
   # 大標題字體.
   logo:
     external: true
-    family: Fredericka the Great
+    family: Noto Serif JP #Fredericka the Great
     size: 3.5
 
   # 頁面標題字體.
