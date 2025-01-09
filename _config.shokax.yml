@@ -164,8 +164,8 @@ font:
 
   # 文章字體.
   posts:
-    external: false
-    family:
+    external: true
+    family: Noto Serif JP
 
   # 程式碼區塊的字體
   codes:
