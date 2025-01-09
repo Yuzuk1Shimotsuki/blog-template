@@ -5,10 +5,10 @@
 # Site
 title: 柚希的溫馨小窩🍊
 subtitle: '一片既充滿知識又堆滿垃圾的海洋'
-description: |-
+description: |
   <div style="font-family: 'Noto Sans', sans-serif;">Focus on the solution, not the problem.</div>
 keywords:
-author: |-
+author: |
   <div style="font-family: 'Noto Sans', sans-serif;">Yuzuki Shimotsuki</div>
 language: zh-HK
 timezone: 'Asia/Shanghai'
