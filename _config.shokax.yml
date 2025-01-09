@@ -132,7 +132,7 @@ fireworks:
 font:
   enable: true
   # 從google字體庫載入,如果自訂@font-face請關閉
-  loadFromGoogle: true
+  loadFromGoogle: false
   # 字體選項:
   # `external`:從google字體庫載入字體.
   # `family: 字體家族名稱,無需引號
