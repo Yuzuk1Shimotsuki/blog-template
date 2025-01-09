@@ -140,8 +140,8 @@ font:
 
   # 適用於所有在body標籤內的文字.
   global:
-    external: false
-    family: Noto Serif JP
+    external: True
+    family: Roboto Slab
     size:
 
   # 大標題字體.
