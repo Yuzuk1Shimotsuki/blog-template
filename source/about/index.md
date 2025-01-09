@@ -46,17 +46,17 @@ copyright: true
 - 始於 2020 @ [Wix.com](https://www.wix.com/) 以便存放筆記自用，其後因需求問題於2021年底關閉
 - 2022 年開設個人簡介並於 [Beacons.ai](https://beacons.ai)公開
 ### 新站
-- 重建於2023 年 5 月 @ [My Blog]{.label}
+- 重建於2023 年 5 月 @ [My Blog]{.label}自用
   - 以 [Hexo](https://hexo.io/) 靜態生成
   - 使用 [Butterfly](https://butterfly.js.org/) 主題
   - 部署於 [Microsoft Azure](https://azure.microsoft.com/)
-- 2024 年 1 月 曾兩度嘗試轉用[Shoka主題](https://github.com/amehime/hexo-theme-shoka)，唯因學業壓力和技術問題而最終以失敗告終...
+- 2024 年 1 月 曾兩度嘗試轉用[Shoka 主題](https://github.com/amehime/hexo-theme-shoka)，唯因受學業壓力和VPS供應商方面的技術問題影響下而最終以失敗告終...
 - 2024 年 10 月尾 改用新域名
-- 2024 年 12 月中 更換VPS配置以重啟遷移工作，並決定改用[ShokaX主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)
+- 2024 年 12 月中 更換VPS供應商配置以重啟遷移工作，並決定改用[ShokaX 主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)
 - 2025 年 1 月 順利遷站，同時改稱站名為 [柚希的溫馨小窩🍊](https://lol-icon.app)
 - 原於 2022 年開設的個人簡介亦因此將於 2025 年 1 月尾前棄用
 
 ## 目前項目
 - [2023-]{.label} 本站
 - [2023-]{.label} Discord 機器人開發人員
-- 想不到啊啊 (⋟﹏⋞)
+- 一時之間想不到啊啊 (⋟﹏⋞)
