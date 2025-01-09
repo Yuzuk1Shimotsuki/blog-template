@@ -8,7 +8,8 @@ subtitle: '一片既充滿知識又堆滿垃圾的海洋'
 description: >-
   <div style="font-family: 'Noto Sans', sans-serif;">Focus on the solution, not the problem.</div>
 keywords:
-author: Yuzuki Shimotsuki
+author: >-
+  <div style="font-family: 'Noto Sans', sans-serif;">Yuzuki Shimotsuki</div>
 language: zh-HK
 timezone: 'Asia/Shanghai'
 
