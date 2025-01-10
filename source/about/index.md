@@ -51,12 +51,13 @@ copyright: true
   - 使用 [Butterfly](https://butterfly.js.org/) 主題
   - 部署於 [Microsoft Azure](https://azure.microsoft.com/)
 - 2024 年 1 月 曾兩度嘗試轉用[Shoka 主題](https://github.com/amehime/hexo-theme-shoka)，唯因受學業壓力和VPS供應商方面的技術問題影響下而最終以失敗告終...
-- 2024 年 10 月尾 改用新域名
+- 2024 年 10 月尾 改用新域名 lol-icon.app
 - 2024 年 12 月中 更換VPS供應商配置以重啟遷移工作，並決定改用[ShokaX 主題](https://github.com/theme-shoka-x/hexo-theme-shokaX)
-- 2025 年 1 月 2 日順利遷站。翌日改稱站名為 [柚希的迷你寶藏室🍊](https://lolicon.wtf)
+- 2025 年 1 月 2 日 順利遷站。翌日改稱站名為 [柚希的迷你寶藏室🍊](https://lolicon.wtf)
   - 原於 2022 年開設的個人簡介亦因此將於 2025 年 1 月 20 日前正式棄用
-- 2025 年 1 月 9 日網站設計優化完成。並更名為 [柚希的溫馨小窩 🍊](https://lolicon.wtf)
-- 2025 年 1 月 10 日更換評論系統和加設搜尋引擎，網站功能已大至完善。
+- 2025 年 1 月 9 日 網站初步優化完成。並更名為 [柚希的溫馨小窩 🍊](https://lolicon.wtf)
+- 2025 年 1 月 10 日 再度改用新域名 lolicon.wtf
+- 2025 年 1 月 11 日 更換評論系統和加設搜尋引擎，網站功能已大至完善。
 
 ## 目前項目
 - [2023-]{.label} 本站
