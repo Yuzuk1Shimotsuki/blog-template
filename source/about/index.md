@@ -58,7 +58,7 @@ copyright: true
 原於 2022 年開設的個人簡介亦因此將於 2025 年 1 月 20 日前正式棄用
 :::
 - 2025 年 1 月 9 日 網站初步優化完成，並更名為 [柚希的溫馨小窩 🍊](https://lolicon.wtf)
-- 2025 年 1 月 10 日 改用新域名 lolicon.wtf，並修復郵箱問題
+- 2025 年 1 月 10 日 改用新域名 lolicon.wtf，並修復[Outlook郵箱問題](https://answers.microsoft.com/en-us/outlook_com/forum/all/e-mail-failing-from-cloudflare/7d6afcf7-ea63-4fcd-aa93-663717193e97)
 - 2025 年 1 月 11 日 更換[評論系統](https://waline.js.org/)&加設搜尋引擎，網站功能已大致完善。
 
 ## 目前項目
