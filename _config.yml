@@ -159,6 +159,23 @@ feed:
     template: "node_modules/hexo-theme-shokax/layout/_alternate/json.ejs"
     output: "feed.json"
 
+# Algolia Search
+# For more information: https://www.algolia.com
+algolia:
+  appId: "DF7OH04KLR" #Your appId
+  apiKey: "4d1a2629944f38e067e42ef14479aa63" #Your apiKey
+  adminApiKey: "627a0a23e254068018f39f0f3f91ac4c" #Your adminApiKey
+  chunkSize: 5000
+  indexName: "shokaX" #"shokaX"
+  fields:
+    - title # Required
+    - path # Required
+    - categories # Recommended
+    - content:strip:truncate,0,2000
+    - gallery
+    - photos
+    - tags
+
 # Admin Panel
 ## Replace the username, YOUR_HASH and SOMETHING_SECRET with your own value below
 # hexo-admin authentification 
