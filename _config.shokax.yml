@@ -199,7 +199,7 @@ twikoo:
 # https://waline.js.org/
 waline:
   enable: true
-  serverURL: "https://waline-comment-system-yuzuk1shimotsuki.vercel.app/"
+  serverURL: "https://waline-comment-system-yuzuk1shimotsuki.vercel.app"
   lang: "zh-TW"
   locale: {} # https://waline.js.org/guide/features/i18n.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8% A8%80
   emoji: # 表情包
