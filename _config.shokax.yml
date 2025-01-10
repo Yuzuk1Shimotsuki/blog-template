@@ -191,7 +191,7 @@ menu:
 
 # https://twikoo.js.org
 twikoo:
-  enable: true
+  enable: false
   mode: vercel # vercel或tencent
   envId: "https://comments.lolicon.wtf" # twikoo環境ID,vercel填地址
   region:
