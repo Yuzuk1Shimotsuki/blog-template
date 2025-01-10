@@ -6,8 +6,8 @@ keywords: friends
 # 本站資訊
 - 站名： 柚希的溫馨小窩 🍊
 - 站長： 霜月柚希 🍊
-- 標誌： ![Yuzuki Shimotsuki](https://lol-icon.app/assets/avatar.webp){height="100" width="100"}
-- 網址： https://lol-icon.app
+- 標誌： ![Yuzuki Shimotsuki](https://lolicon.wtf/assets/avatar.webp){height="100" width="100"}
+- 網址： https://lolicon.wtf
 - 簡介： 一片既充滿知識又堆滿垃圾的海洋
 - 始創於： 
   - 舊站： 2020 年 9 月 @ [Wix.com](https://www.wix.com/) (已於 2021 年 11 月 關閉)
