@@ -193,7 +193,7 @@ menu:
 twikoo:
   enable: true
   mode: vercel # vercel或tencent
-  envId: "https://comments.lol-icon.app" # twikoo環境ID,vercel填地址
+  envId: "https://comments.lolicon.wtf" # twikoo環境ID,vercel填地址
   region:
 
 # https://waline.js.org/
