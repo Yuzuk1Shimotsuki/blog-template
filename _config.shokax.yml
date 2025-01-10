@@ -340,6 +340,21 @@ image_server: # "https://acg.xydwz.cn/api/api.php"
 
 # Algolia Search
 # For more information: https://www.algolia.com
+algolia:
+  appId: "DF7OH04KLR" #Your appId
+  apiKey: "4d1a2629944f38e067e42ef14479aa63" #Your apiKey
+  adminApiKey: "627a0a23e254068018f39f0f3f91ac4c" #Your adminApiKey
+  chunkSize: 5000
+  indexName: "shokaX" #"shokaX"
+  fields:
+    - title #必须配置
+    - path #必须配置
+    - categories #推荐配置
+    - content:strip:truncate,0,2000
+    - gallery
+    - photos
+    - tags
+
 search:
   hits:
     per_page: 10
