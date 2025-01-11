@@ -6,8 +6,7 @@ language: zh-HK
 copyright: true
 ---
 
-# 請選擇您的語言 ↓ Please Choose your language below ↓
+# ~ 選擇您的語言 ↓ Choose your language below ↓ ~
 ## 1
 ## 2
 ## 3
-## 4
