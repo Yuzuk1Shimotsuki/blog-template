@@ -25,5 +25,7 @@ Now, I'm a EE student who studied in City University of Hong Kong. I will dedica
 ## Prologue
 And, that’s all I have to share for now! Feel free to reach out and chat with me anytime :) Whether you want to share tech knowledge, discuss anime and games, or make new friends and meet interesting people, I'm here for you. Ciallo ～(∠・ω<)⌒☆
 
+In short, welcome to my little blog 👋. I hope you'll find something valuable here!
+
 ### < [Go back to Index](https://lolicon.wtf/about/self_intro)
 ### < [Go back to About Me](https://lolicon.wtf/about)
