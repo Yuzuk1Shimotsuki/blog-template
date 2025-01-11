@@ -19,7 +19,7 @@ copyright: true
 | (INTJ-T)                         | Introverted     | Intuitive     | Thinking     | Judging      | Assertive     |             |
 
 ## 在做的事
-- 一個正在讀 Electrical Engineering 的{大學生^學渣}
+- 一個正在讀 Electrical Engineering 的{大學生^小學渣}
 - 後端開發者 [(Since 2022)]{.label}
 - ...
 
@@ -38,7 +38,7 @@ copyright: true
 
 - 長期潛水 🤐
   - [TruePotato5838](https://www.reddit.com/user/TruePotato5838/) @ [Reddit](https://www.reddit.com/)
-  - [Golden Ching](https://x.com/goldenlight6628) @ [X / Twitter)(https://www.x.com/)
+  - [Golden Ching](https://x.com/goldenlight6628) @ [X / Twitter](https://www.x.com/)
   - [風の友達](https://www.pixiv.net/en/users/110127428) @ [Pixiv](https://www.pixiv.net)
   - Pending...
 
