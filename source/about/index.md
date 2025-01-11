@@ -10,7 +10,6 @@ copyright: true
 - ❄️
 - $05$ 🐔
 - [性格測試](https://www.16personalities.com/intj-personality?utm_source=results-turbulent-architect&utm_medium=email&utm_campaign=en&utm_content=view-results)
-- [自我介紹](https://lolicon.wtf/about/self_intro)
 
 | Personality Type | [Mind](https://www.16personalities.com/articles/mind-intuitive-vs-observant) | [Energy](https://www.16personalities.com/articles/energy-introverted-vs-extraverted) | [Nature](https://www.16personalities.com/articles/nature-thinking-vs-feeling) | [Tactics](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) | [Identity](https://www.16personalities.com/articles/identity-assertive-vs-turbulent) | Date taken |
 |----------------------------------|----------------|--------------|-------------|-------------|-------------|-------------|
@@ -18,6 +17,8 @@ copyright: true
 | (INTJ-T)                         | Introverted     | Intuitive     | Thinking     | Judging      | Assertive     |             |
 | [Assertive Architect](https://www.16personalities.com/intj-personality)              | 56%             | 48%           | 52%          | 50%          | 58%           | 2022-05-08  | \
 | (INTJ-T)                         | Introverted     | Intuitive     | Thinking     | Judging      | Assertive     |             |
+
+- [自我介紹](https://lolicon.wtf/about/self_intro)
 
 ## 在做的事
 - 一個正在讀 Electrical Engineering 的{大學生^小學渣}
