@@ -37,7 +37,8 @@ copyright: true
   - [白蜂トップスター](https://discord.com/users/885756325798227988) @ [Discord](https://discord.com/)
 
 - 長期潛水
-  - [TurePotato5838](https://www.reddit.com/user/TruePotato5838/) @ [Reddit](https://www.reddit.com/)
+  - [TruePotato5838](https://www.reddit.com/user/TruePotato5838/) @ [Reddit](https://www.reddit.com/)
+  - 
   - Pending...
 
 
