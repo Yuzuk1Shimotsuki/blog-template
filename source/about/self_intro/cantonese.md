@@ -24,5 +24,5 @@ copyright: true
 
 「著重喺解決方法度，而唔係問題嘅本身。」
 
-## < 返回索引
-## < 返回關於本站
+## < [返回 索引](https://lolicon.wtf/about/self_intro)
+## < [返回 關於本站](https://lolicon.wtf/about)
