@@ -299,7 +299,7 @@ reward:
   enable: true
   account:
     wechatpay: /wechatpay.png
-    alipay: /alipay.png
+    alipay: /alipay.jpg
     # paypal: /paypal.png
 
 # TagCloud settings for tags page.
