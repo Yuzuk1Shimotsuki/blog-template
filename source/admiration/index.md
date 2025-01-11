@@ -16,4 +16,4 @@ copyright: true
 然而，如果你真的想通過$來表示對我的支持，可以透露下列途徑達成：
 - 點擊每篇文章下的按鈕
 - [請我喝一杯咖啡 🥹](https://buymeacoffee.com/yuzuk1shimotsuki)
-- 在 GitHub 贊助我 [Coming soon]{.label}
+- 在 GitHub 贊助我 [(Coming soon)]{.label}
