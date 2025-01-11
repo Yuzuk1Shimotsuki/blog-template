@@ -19,7 +19,7 @@ copyright: true
 | (INTJ-T)                         | Introverted     | Intuitive     | Thinking     | Judging      | Assertive     |             |
 
 ## 在做的事
-- 一個正在讀 Electrical Engineering 的大學生
+- 一個正在讀 Electrical Engineering 的{大學生^學渣}
 - 後端開發者 [(Since 2022)]{.label}
 - ...
 
