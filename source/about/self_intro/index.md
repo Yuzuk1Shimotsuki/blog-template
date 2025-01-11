@@ -11,4 +11,4 @@ copyright: true
 - 2
 - 3
 
-## [返回 關於本站 Go back to About Me](https://lolicon.wtf/about)
+## < [返回 關於本站 Go back to About Me](https://lolicon.wtf/about)
