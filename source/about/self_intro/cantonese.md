@@ -27,7 +27,7 @@ copyright: true
 嘛... 就講住咁多先啦。歡迎各位多D嚟搵我吹水~
 無論係技術分享，定係一齊斟動漫同game都ok 🥰 希望可以喺度識多啲friend，攜手前進！ Ciallo ～(∠・ω<)⌒☆
 
-總而言之，歡迎來到我的小博客。希望這裡能帶給你一些有價值的東西～
+Anyway，歡迎嚟到我嘅細blog。希望呢到可以俾到你一D有價值嘅嘢～
 
 ### < [返回 索引](https://lolicon.wtf/about/self_intro)
 ### < [返回 關於本站](https://lolicon.wtf/about)
