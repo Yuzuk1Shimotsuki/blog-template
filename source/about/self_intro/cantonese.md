@@ -4,6 +4,7 @@ title:
 math: true
 language: zh-HK
 copyright: true
+comment: false
 ---
 各種新式科技產品嘅問世，就好似雨後春筍咁。令我無疑間諗起咗「科技就係未來」呢句嘢......
 
