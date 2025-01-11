@@ -10,6 +10,7 @@ copyright: true
 - ❄️
 - $05$ 🐔
 - [性格測試](https://www.16personalities.com/intj-personality?utm_source=results-turbulent-architect&utm_medium=email&utm_campaign=en&utm_content=view-results)
+- [Testing](https://lolicon.wtf/about/self_intro/cantonese)
 
 | Personality Type | [Mind](https://www.16personalities.com/articles/mind-intuitive-vs-observant) | [Energy](https://www.16personalities.com/articles/energy-introverted-vs-extraverted) | [Nature](https://www.16personalities.com/articles/nature-thinking-vs-feeling) | [Tactics](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) | [Identity](https://www.16personalities.com/articles/identity-assertive-vs-turbulent) | Date taken |
 |----------------------------------|----------------|--------------|-------------|-------------|-------------|-------------|
