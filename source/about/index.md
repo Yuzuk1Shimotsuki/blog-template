@@ -19,7 +19,7 @@ copyright: true
 | (INTJ-T)                         | Introverted     | Intuitive     | Thinking     | Judging      | Assertive     |             |
 
 ## 在做的事
-- 一個正在讀 electrical engineering 的大學生
+- 一個正在讀 Electrical Engineering 的大學生
 - 後端開發者 [(Since 2022)]{.label}
 - ...
 
@@ -31,14 +31,15 @@ copyright: true
 - 交通迷 (aka. 巴膠 鐵膠 🙄...)
 
 # 常用賬號
-- 經常蒲頭
+- 經常蒲頭 😀
   - [霜月柚希 🍊](https://github.com/Yuzuk1Shimotsuki) @ [GitHub](https://github.com/) 
   - [Ching](https://t.me/CodeCrafter404) @ [Telegram](https://telegram.org/)
   - [白蜂トップスター](https://discord.com/users/885756325798227988) @ [Discord](https://discord.com/)
 
-- 長期潛水
+- 長期潛水 🤐
   - [TruePotato5838](https://www.reddit.com/user/TruePotato5838/) @ [Reddit](https://www.reddit.com/)
-  - 
+  - [Golden Ching](https://x.com/goldenlight6628) @ [X / Twitter)(https://www.x.com/)
+  - [風の友達](https://www.pixiv.net/en/users/110127428) @ [Pixiv](https://www.pixiv.net)
   - Pending...
 
 
@@ -65,4 +66,4 @@ copyright: true
 ## 目前項目
 - [2023-]{.label} 本站
 - [2023-]{.label} Discord 機器人開發人員
-- 一時之間想不到啊啊 (⋟﹏⋞)
+- 一時間想不到啊啊 (⋟﹏⋞)
