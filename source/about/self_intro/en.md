@@ -10,9 +10,9 @@ When I ever seen a new tech product or service is being released, "Technology is
 ## My Personality
 I'm a cheerful person, and curious on everything.
 
+## My Interest
 #food #cycling #rollerskating etc.
 
-## My Interest
 I joined the "Computer Building Lesson" held by NGO back in my primary school era – the moment that kicked start my mind of becoming a computer enthusiast.
 
 The instructor not only provided us a detailed explanation of how computers function and the major functions of its components, but also give us a chance to build a computer with provided parts by ourselves which deepened my understanding of computers.
