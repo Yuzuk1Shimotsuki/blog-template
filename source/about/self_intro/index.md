@@ -9,7 +9,7 @@ copyright: true
 # ~ 選擇您的語言 ↓ Choose your language below ↓ ~
 ### [廣東話 Cantonese](https://lolicon.wtf/about/self_intro/cantonese)
 ### [繁體中文 Chinese (Traditional)](https://lolicon.wtf/about/self_intro/zh-TW)
-### [簡体中文 Chinese (Simplified)](https://lolicon.wtf/about/self_intro/zh-CN)
+### [简体中文 Chinese (Simplified)](https://lolicon.wtf/about/self_intro/zh-CN)
 ### [English](https://lolicon.wtf/about/self_intro/en)
 ### [日本語 Japanese](https://lolicon.wtf/about/self_intro/jp)
 
