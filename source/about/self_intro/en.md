@@ -23,7 +23,7 @@ I'm also interested in programming. I usually watch programming tutorials online
 Now, I'm a EE student who studied in City University of Hong Kong. I will dedicate myself to studying diligently to prepare for the future developments in technology and contribute to making the world a better place for future generation.
 
 ## Prologue
-And, that’s all I have to share for now! I hope you enjoyed my content, and I’d be thrilled to have you as a new friend. C
-iallo
+And, that’s all I have to share for now! Feel free to reach out and chat with me anytime :) Whether you want to share tech knowledge, discuss anime and games, or make new friends and meet interesting people, I'm here for you. Ciallo ～(∠・ω<)⌒☆
+
 ### < [Go back to Index](https://lolicon.wtf/about/self_intro)
 ### < [Go back to About Me](https://lolicon.wtf/about)
