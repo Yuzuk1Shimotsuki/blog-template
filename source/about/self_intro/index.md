@@ -14,4 +14,4 @@ copyright: true
 ### [日本語 Japanese](https://lolicon.wtf/about/self_intro/jp)
 
 
-## < [返回 關於本站 Go back to About Me](https://lolicon.wtf/about)
+# < [返回 關於本站 Go back to About Me](https://lolicon.wtf/about)
