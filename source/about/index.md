@@ -61,8 +61,7 @@ copyright: true
 :::
 - 2025 年 1 月 9 日 網站初步優化完成，並更名為 [柚希的溫馨小窩 🍊](https://lolicon.wtf)
 - 2025 年 1 月 10 日 改用新域名 lolicon.wtf，並修復[Outlook郵箱問題](https://answers.microsoft.com/en-us/outlook_com/forum/all/e-mail-failing-from-cloudflare/7d6afcf7-ea63-4fcd-aa93-663717193e97)
-- 2025 年 1 月 11 日 更換[評論系統](https://waline.js.org/)&加設搜尋引擎，網站功能基本上已大致完善
-- 2025 年 1 月 11 日 增設[上線時間查詢系統](https://status.lolicon.wtf)
+- 2025 年 1 月 11 日 增設[上線時間查詢系統](https://status.lolicon.wtf)，更換[評論系統](https://waline.js.org/)&加設搜尋引擎。網站功能基本上已大致完善
 - 2025 年 1 月 12 日 公測已順利完成，正式宣布公開網站予大眾
 
 ## 目前項目
