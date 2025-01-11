@@ -3,8 +3,8 @@ layout: page
 title: 
 math: true
 language: en
-copyright: true
 comment: false
+copyright: true
 ---
 When I ever seen a new tech product or service is being released, "Technology is the future" is always keeping in my mind.
 
