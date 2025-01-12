@@ -41,6 +41,8 @@ copyright: true
 - 長期潛水 🤐
   - [TruePotato5838](https://www.reddit.com/user/TruePotato5838/) @ [Reddit](https://www.reddit.com/)
   - [Golden Ching](https://x.com/goldenlight6628) @ [X / Twitter](https://www.x.com/)
+  - [Golden Ching](https://www.facebook.com/goldenlight6628) @ [Facebook](https://www.facebook.com)
+  - [白蜂トップスター](https://www.youtube.com/@%E7%99%BD%E8%9C%82%E3%83%88%E3%83%83%E3%83%97%E3%82%B9%E3%82%BF%E3%83%BC) @ [YouTube](https://www.youtube.com)
   - [高登大師 🥘🍤](https://www.threads.net/@goldenlight6628) @ [Threads](https://www.threads.net/)
   - [霜月柚希 🍊](https://signal.me/#eu/nB8mJtWHCAlnoGFaLxr8DFXzIwTgsxcV_xreLkSths8SnpiOqU9J9r10rGO0wiqw) @ [Signal](https://signal.org/)
   - [風の友達](https://www.pixiv.net/en/users/110127428) @ [Pixiv](https://www.pixiv.net)
@@ -48,8 +50,6 @@ copyright: true
   - [風の友達 Kazenotomodachi](https://g.dev/kazenotomodachi) @ [Google for Developers](https://developers.google.com/)
   - [Unknownidentity](https://discord.com/users/932214558980980756) @ [Discord](https://discord.com/)
   - [霜月柚希 🍊](https://bento.me/yuzuk1shimotsuki) @ [Bento](https://bento.me/)
-  - [白蜂トップスター](https://www.youtube.com/@%E7%99%BD%E8%9C%82%E3%83%88%E3%83%83%E3%83%97%E3%82%B9%E3%82%BF%E3%83%BC) @ [YouTube](https://www.youtube.com)
-
 
 ## 建站簡史
 ### 舊站
