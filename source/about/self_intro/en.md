@@ -6,22 +6,26 @@ language: en
 comment: false
 copyright: true
 ---
-When I ever seen a new tech product or service is being released, "Technology is the future" is always keeping in my mind.
+## Epilogue
+When I ever see a new tech product or service being released, "Technology is the future" is always kept in mind.
+
+I am a native-born Hong Kong resident and proud of it (Before 2019... those who understand will understand). Putting aside political factors, I'm both impressed and astonished by the rapid rise of technological development in China. At the same time, I felt hopeless regarding Hong Kong's lag in scientific research and technological development. 😮‍💨
 
 ## My Personality
-I'm a cheerful person, and curious on everything.
+I'm a cheerful person and curious about everything.
+You might think I don't usually have much to say, but that's just because I'm more introverted lol.
 
 ## My Interest
 #food #cycling #rollerskating etc.
 
-I joined the "Computer Building Lesson" held by NGO back in my primary school era – the moment that kicked start my mind of becoming a computer enthusiast.
+I joined the "Computer Building Lesson" held by an NGO at age 5 – the moment that started my mind to become a computer enthusiast.
 
-The instructor not only provided us a detailed explanation of how computers function and the major functions of its components, but also give us a chance to build a computer with provided parts by ourselves which deepened my understanding of computers.
+The instructor not only provided us with a detailed explanation of how computers function and the primary functions of their components but also gave us a chance to build a computer with the parts we provided, which deepened my understanding of computers.
 
-I'm also interested in programming. I usually watch programming tutorials online and visit programming websites to practice my coding skills, which was tough for me in the beginning but I enjoyed the process.
+I've also been interested in programming since age 13. I usually watch online programming tutorials and visit websites to practice my coding skills, which was tough initially. However, I enjoyed the whole process.
 
 ## Future planning
-Now, I'm a EE student who studied in City University of Hong Kong. I will dedicate myself to studying diligently to prepare for the future developments in technology and contribute to making the world a better place for future generation.
+Now, I'm an EE student who studied at the City University of Hong Kong. I will dedicate myself to studying diligently to prepare for future technological developments and contribute to making the world a better place for future generations.
 
 ## Prologue
 And, that’s all I have to share for now! Feel free to reach out and chat with me anytime :) Whether you want to share tech knowledge, discuss anime and games, or make new friends and meet interesting people, I'm here for you. Ciallo ～(∠・ω<)⌒☆
