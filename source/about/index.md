@@ -53,7 +53,7 @@ copyright: true
 ## 建站簡史
 ### 舊站
 - 始於 2020 @ [Wix.com](https://www.wix.com/) 以便存放筆記自用，其後因需求問題於 2021 年底關閉
-- 2022 年 5 月 開設個人簡介並於 [Beacons.ai](https://beacons.ai)公開
+- 2022 年 5 月 開設個人簡介並於 [Beacons.ai](https://beacons.ai)公開，其後於 2025 年 1 月 13 日 新站遷移工作完成後正式棄用
 ### 新站
 - 重建於2023 年 5 月 @ [My Blog]{.label}自用
   - 以 [Hexo](https://hexo.io/) 靜態生成
