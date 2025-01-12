@@ -41,10 +41,12 @@ copyright: true
 - 長期潛水 🤐
   - [TruePotato5838](https://www.reddit.com/user/TruePotato5838/) @ [Reddit](https://www.reddit.com/)
   - [Golden Ching](https://x.com/goldenlight6628) @ [X / Twitter](https://www.x.com/)
+  - [Golden Ching](https://www.threads.net/@goldenlight6628) @ [Threads](https://www.threads.net/)
   - [霜月柚希 🍊](https://signal.me/#eu/nB8mJtWHCAlnoGFaLxr8DFXzIwTgsxcV_xreLkSths8SnpiOqU9J9r10rGO0wiqw) @ [Signal](https://signal.org/)
   - [風の友達](https://www.pixiv.net/en/users/110127428) @ [Pixiv](https://www.pixiv.net)
   - [Yuzuk1Shimotsuki](https://monkeytype.com/profile/Yuzuk1Shimotsuki) @ [Monkeytype](https://monkeytype.com/)
   - [風の友達 Kazenotomodachi](https://g.dev/kazenotomodachi) @ [Google for Developers](https://developers.google.com/)
+  - [Unknownidentity](https://discord.com/users/932214558980980756) @ [Discord](https://discord.com/)
   - Pending...
 
 
