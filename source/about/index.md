@@ -23,7 +23,6 @@ copyright: true
 ## 在做的事
 - 一個正在讀 Electrical Engineering 的{大學生^小學渣}
 - 後端 [(Since 2023)]{.label} & 前端開發者 [(Since 2020)]{.label}
-- ...
 
 ## 興趣
 - 程式開發 & 設計 💻
