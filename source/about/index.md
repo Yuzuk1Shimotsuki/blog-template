@@ -47,7 +47,7 @@ copyright: true
   - [風の友達](https://www.pixiv.net/en/users/110127428) @ [Pixiv](https://www.pixiv.net)
   - [Yuzuk1Shimotsuki](https://monkeytype.com/profile/Yuzuk1Shimotsuki) @ [Monkeytype](https://monkeytype.com/)
   - [風の友達 Kazenotomodachi](https://g.dev/kazenotomodachi) @ [Google for Developers](https://developers.google.com/)
-  - [Unknownidentity](https://discord.com/users/932214558980980756) @ [Discord](https://discord.com/)
+  - [UnknownIdentity](https://discord.com/users/932214558980980756) @ [Discord](https://discord.com/)
   - [霜月柚希 🍊](https://bento.me/yuzuk1shimotsuki) @ [Bento](https://bento.me/)
 
 ## 建站簡史
