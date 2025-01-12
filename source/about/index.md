@@ -47,7 +47,8 @@ copyright: true
   - [Yuzuk1Shimotsuki](https://monkeytype.com/profile/Yuzuk1Shimotsuki) @ [Monkeytype](https://monkeytype.com/)
   - [風の友達 Kazenotomodachi](https://g.dev/kazenotomodachi) @ [Google for Developers](https://developers.google.com/)
   - [Unknownidentity](https://discord.com/users/932214558980980756) @ [Discord](https://discord.com/)
-  - Pending...
+  - [霜月柚希 🍊](https://bento.me/yuzuk1shimotsuki) @ [Bento](https://bento.me/)
+  - [白蜂トップスター](https://www.youtube.com/@%E7%99%BD%E8%9C%82%E3%83%88%E3%83%83%E3%83%97%E3%82%B9%E3%82%BF%E3%83%BC) @ [YouTube](https://www.youtube.com)
 
 
 ## 建站簡史
