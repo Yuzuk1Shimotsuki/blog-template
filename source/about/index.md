@@ -42,6 +42,8 @@ copyright: true
   - [TruePotato5838](https://www.reddit.com/user/TruePotato5838/) @ [Reddit](https://www.reddit.com/)
   - [Golden Ching](https://x.com/goldenlight6628) @ [X / Twitter](https://www.x.com/)
   - [風の友達](https://www.pixiv.net/en/users/110127428) @ [Pixiv](https://www.pixiv.net)
+  - [Yuzuk1Shimotsuki](https://monkeytype.com/profile/Yuzuk1Shimotsuki) @ [Monkeytype](https://monkeytype.com/)
+  - [goldenlight8549](https://mixerboxbff.com/user?handle=goldenlight8549) @ [MixerBoxBFF 冰友](https://mixerboxbff.com/)
   - Pending...
 
 
