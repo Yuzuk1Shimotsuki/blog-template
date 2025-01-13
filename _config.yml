@@ -105,8 +105,17 @@ theme: shokax
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+# You can use this:
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Yuzuk1Shimotsuki/yuzuk1shimotsuki.github.io.git
+  branch: main
+  message: "Deployed from cloud server"
+  name: "Yuzuk1Shimotsuki"
+  email: "yuzuk1shimotsuki-dev@lolicon.wtf"
+  extend_dirs:
+  ignore_hidden: false # default is true
+  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
 
 markdown:
   render: # 渲染器設定
