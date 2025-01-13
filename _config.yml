@@ -119,7 +119,7 @@ deploy:
 
 markdown:
   render: # 渲染器設定
-    html: false # 過濾 HTML 標籤
+    html: true # 過濾 HTML 標籤
     xhtmlOut: true 使用 '/' 來閉合單標籤 （例如 <br />）。
     breaks: true # 轉換段落裡的 '\n' 到 <br>。
     linkify: true # 將類似 URL 的文字自動轉換為連結。
