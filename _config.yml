@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 柚希的溫馨小窩🍊
-subtitle: "一片既充滿知識又堆滿垃圾的海洋 ~(￣▽￣)~*"
-description: "Focus on the solution, not the problem."
+title: ShokaX Can
+subtitle: ''
+description: ''
 keywords:
-author: Yuzuki Shimotsuki
-language: zh-HK
+author: John Doe
+language: zh-cn
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://lolicon.wtf
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -67,11 +67,6 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-  "English": english
-  "Computer Science": computer-science
-  "Computer Engineering": computer-engineering
-  "Hexo": hexo
-  "Networking": networking
 tag_map:
 
 # Metadata elements
@@ -105,31 +100,22 @@ theme: shokax
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-# You can use this:
 deploy:
-  type: git
-  repo: https://github.com/Yuzuk1Shimotsuki/yuzuk1shimotsuki.github.io.git
-  branch: main
-  message: "Deployed from cloud server"
-  name: "Yuzuk1Shimotsuki"
-  email: "yuzuk1shimotsuki-dev@lolicon.wtf"
-  extend_dirs:
-  ignore_hidden: false # default is true
-  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
+  type: ''
 
 markdown:
-  render: # 渲染器設定
-    html: true # 過濾 HTML 標籤
-    xhtmlOut: true 使用 '/' 來閉合單標籤 （例如 <br />）。
-    breaks: true # 轉換段落裡的 '\n' 到 <br>。
-    linkify: true # 將類似 URL 的文字自動轉換為連結。
+  render: # 渲染器设置
+    html: false # 过滤 HTML 标签
+    xhtmlOut: true # 使用 '/' 来闭合单标签 （比如 <br />）。
+    breaks: true # 转换段落里的 '\n' 到 <br>。
+    linkify: true # 将类似 URL 的文本自动转换为链接。
     typographer:
     quotes: "“”‘’"
   plugins: # markdown-it 插件设置
     - plugin:
         name: markdown-it-toc-and-anchor
         enable: true
-        options: # 文章目錄以及錨點應用的 class 名稱，shoka 系主題必須設定成這樣
+        options: # 文章目录以及锚点应用的 class 名称，shoka 系主题必须设置成这样
           tocClassName: "toc"
           anchorClassName: "anchor"
     - plugin:
@@ -167,28 +153,3 @@ feed:
     enable: true
     template: "node_modules/hexo-theme-shokax/layout/_alternate/json.ejs"
     output: "feed.json"
-
-# Algolia Search
-# For more information: https://www.algolia.com
-algolia:
-  appId: "DF7OH04KLR" #Your appId
-  apiKey: "4d1a2629944f38e067e42ef14479aa63" #Your apiKey
-  adminApiKey: "627a0a23e254068018f39f0f3f91ac4c" #Your adminApiKey
-  chunkSize: 5000
-  indexName: "shokaX" #"shokaX"
-  fields:
-    - title # Required
-    - path # Required
-    - categories # Recommended
-    - content:strip:truncate,0,2000
-    - gallery
-    - photos
-    - tags
-
-# Admin Panel
-## Replace the username, YOUR_HASH and SOMETHING_SECRET with your own value below
-# hexo-admin authentification 
-admin:
-  username: ching-dev8538@lol-icon.app
-  password_hash: $2b$10$tdCETo9HN38IMK6EjqGdGe3sJxVh.hN7ANVIuhYaEdHXX9nvWdUmm
-  secret: 5rfidt6oe94jyuphwg40fjlka;sdagjflsafsdw4erf;dkgl
